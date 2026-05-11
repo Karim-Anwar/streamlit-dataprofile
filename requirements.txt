@@ -1,4 +1,4 @@
-setuptools
+etuptools==68.2.2
 numpy
 pandas
 scipy
